@@ -6,6 +6,7 @@
 | ------------------------------------------------------------------------------- | --------------------- |
 | [abceset/AI](https://github.com/abceset/AI)                                     | 机器学习算法C语言实现           |
 | [lxyeternal/WAF](https://github.com/lxyeternal/WAF)                             | 基于机器学习的web(URL)攻击检测系统 |
+| [MingchaoZhu/InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) | 可解释的机器学习--黑盒模型可解释性理解指南 |
 | [duoergun0729 ](https://github.com/duoergun0729)                                | Web安全之机器学习            |
 | [Coldwave96/WebShell-AIHunter](https://github.com/Coldwave96/WebShell-AIHunter) | 机器学习算法检测Webhell       |
 | [tennc/webshell](https://github.com/tennc/webshell)                             | webshell收集            |
