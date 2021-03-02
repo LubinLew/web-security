@@ -57,7 +57,7 @@
 | [netsparker](https://www.netsparker.com/) |  收费                         | 说明                         |
 | [Qualys Cloud Platform](https://www.qualys.com/cloud-platform/) |  收费                         | 说明                         |
 | [OpenVAS](https://www.openvas.org/) |  免费                         | 说明                         |
-| [Arachni](https://www.arachni-scanner.com/)  |  免费                         | [开源](https://github.com/Arachni/arachni)部分已经停止维护,作者开始商业化,但是基本的扫描器仍然是免费的                         |
+| [Arachni](https://www.arachni-scanner.com/)  |  免费                         |[Ruby开发] [开源](https://github.com/Arachni/arachni)部分已经停止维护,作者开始商业化,但是基本的扫描器仍然是免费的                         |
 | [OWASP ZAP](https://owasp.org/www-project-zap/) |  免费                         | 说明                         |
 | [WDScanner](https://github.com/TideSec/WDScanner) |  免费                         | 说明                         |
 | [w-digital-scanner/w11scan](https://github.com/w-digital-scanner/w11scan) |  免费                         | 说明                         |
