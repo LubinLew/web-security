@@ -49,16 +49,16 @@
 
 ## 扫描器
 
-| 项目                                                                  | 收费                         | 说明                         |
+| 项目                                                                  | 收费                         | 开源                         |
 | --------------------------------------------------------------------- | ---------------------------- | ---------------------------- |
 | [Nessus](https://www.tenable.com/products/nessus) |  收费                         | 说明                         |
 | [appScan](https://www.hcltechsw.com/products/appscan) |  收费                         | 说明                         |
 | [AWVS(Acunetix Web Vulnerability Scanner)](https://www.acunetix.com/web-vulnerability-scanner) |  收费                         | 说明                         |
 | [netsparker](https://www.netsparker.com/) |  收费                         | 说明                         |
 | [Qualys Cloud Platform](https://www.qualys.com/cloud-platform/) |  收费                         | 说明                         |
-| [OpenVAS](https://www.openvas.org/) |  收费                         | 说明                         |
-| [Arachni](https://www.arachni-scanner.com/)  |  收费                         | 说明                         |
-| [OWASP ZAP](https://owasp.org/www-project-zap/) |  收费                         | 说明                         |
-| [WDScanner](https://github.com/TideSec/WDScanner) |  收费                         | 说明                         |
-| [w-digital-scanner/w11scan](https://github.com/w-digital-scanner/w11scan) |  收费                         | 说明                         |
-| [zerokeeper/WebEye](https://github.com/zerokeeper/WebEye) |  收费                         | 说明                         |
+| [OpenVAS](https://www.openvas.org/) |  免费                         | 说明                         |
+| [Arachni](https://www.arachni-scanner.com/)  |  免费                         | [开源](https://github.com/Arachni/arachni)部分已经停止维护,作者开始商业化,但是基本的扫描器仍然是免费的                         |
+| [OWASP ZAP](https://owasp.org/www-project-zap/) |  免费                         | 说明                         |
+| [WDScanner](https://github.com/TideSec/WDScanner) |  免费                         | 说明                         |
+| [w-digital-scanner/w11scan](https://github.com/w-digital-scanner/w11scan) |  免费                         | 说明                         |
+| [zerokeeper/WebEye](https://github.com/zerokeeper/WebEye) |  免费                         | 说明                         |
