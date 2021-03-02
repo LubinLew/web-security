@@ -14,6 +14,13 @@
 
 ---
 
+## 语意分析
+
+| 项目                                                            | 说明                   |
+| ----------------------------------------------------------------| ---------------------- |
+| [libdetection](https://github.com/wallarm/libdetection)         |  注入与命令攻击的语句分析引擎 |
+| [libinjection](https://github.com/libinjection/libinjection)    | 注入与XSS的语意分析引擎(不算真正的语意分析),该库已经停止维护多年 |
+
 ## POC & 靶场
 
 | [vulhub/vulhub](https://github.com/vulhub/vulhub)                                                        | [Medicean/VulApps](https://github.com/Medicean/VulApps)                                                     | -                                                                   |
