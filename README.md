@@ -62,3 +62,4 @@
 | [WDScanner](https://github.com/TideSec/WDScanner) |  免费                         | 说明                         |
 | [w-digital-scanner/w11scan](https://github.com/w-digital-scanner/w11scan) |  免费                         | 说明                         |
 | [zerokeeper/WebEye](https://github.com/zerokeeper/WebEye) |  免费                         | 说明                         |
+| [Safe3 WVS](https://sourceforge.net/projects/safe3wvs/) | 收费  | 不开源,只有windows版本, 13年就已经停止维护(官网已关闭) |
