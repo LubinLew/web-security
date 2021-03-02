@@ -59,7 +59,7 @@
 | [netsparker](https://www.netsparker.com/)                                                      | 收费  | 闭源        | -   |                                                                   |                        |
 | [Qualys Cloud Platform](https://www.qualys.com/cloud-platform/)                                | 收费  | 闭源        | -   |                                                                   |                        |
 | [OpenVAS](https://www.openvas.org/)                                                            | 免费  | 开源        | -   |                                                                   |                        |
-| [Arachni](https://www.arachni-scanner.com/)                                                    | 免费  | 开源        | 停止  | [Ruby开发] [开源](https://github.com/Arachni/arachni)部分已经停止维护,作者开始商业化 | [DOC](docs/arachi.md)  |
+| [Arachni](https://www.arachni-scanner.com/)                                                    | 免费  | 开源        | 停止  | [Ruby开发] [开源](https://github.com/Arachni/arachni)部分已经停止维护,作者开始商业化 | [DOC](docs/arachni.md)  |
 | [Htcap](https://htcap.org/)                                                                    | 免费  | 开源        | -   | 拥有优秀的爬虫功能, 支持继承arachni/ck401/native/repeater/sqlmap/wapiti 扫描器    |                        |
 | [OWASP ZAP](https://owasp.org/www-project-zap/)                                                | 免费  | OWASP官方项目 | -   |                                                                   | [DOC](docs/zaproxy.md) |
 | [WDScanner](https://github.com/TideSec/WDScanner)                                              | 免费  | 说明        | -   |                                                                   |                        |
