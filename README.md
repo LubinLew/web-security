@@ -2,16 +2,15 @@
 
 ## AI 深度学习项目
 
-| 项目                                                                                    | 说明                                   |
-| ------------------------------------------------------------------------------------- | ---------------------------------------- |
-| [lxyeternal/WAF](https://github.com/lxyeternal/WAF)                                   | 基于机器学习的web(URL)攻击检测系统        |
-| [duoergun0729 ](https://github.com/duoergun0729)                                      | Web安全之机器学习                         |
-| [Coldwave96/WebShell-AIHunter](https://github.com/Coldwave96/WebShell-AIHunter)       | 机器学习算法检测Webhell                   |
-| [tennc/webshell](https://github.com/tennc/webshell)                                   | webshell收集                             |
-| [alphaSeclab/awesome-webshell](https://github.com/alphaSeclab/awesome-webshell)       | webshell收集                             |
-| [abceset/AI](https://github.com/abceset/AI)                                           | 机器学习算法C语言实现                     |
+| 项目                                                                                    | 说明                     |
+| ------------------------------------------------------------------------------------- | ---------------------- |
+| [lxyeternal/WAF](https://github.com/lxyeternal/WAF)                                   | 基于机器学习的web(URL)攻击检测系统  |
+| [duoergun0729 ](https://github.com/duoergun0729)                                      | Web安全之机器学习             |
+| [Coldwave96/WebShell-AIHunter](https://github.com/Coldwave96/WebShell-AIHunter)       | 机器学习算法检测Webhell        |
+| [tennc/webshell](https://github.com/tennc/webshell)                                   | webshell收集             |
+| [alphaSeclab/awesome-webshell](https://github.com/alphaSeclab/awesome-webshell)       | webshell收集             |
+| [abceset/AI](https://github.com/abceset/AI)                                           | 机器学习算法C语言实现            |
 | [MingchaoZhu/InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) | 可解释的机器学习--黑盒模型可解释性理解指南 |
-
 
 ---
 
@@ -49,19 +48,20 @@
 
 ## 扫描器
 
-| 项目                                                                  | 收费                         | 开源                         |
-| --------------------------------------------------------------------- | ---------------------------- | ---------------------------- |
-| [Nessus](https://www.tenable.com/products/nessus) |  收费                         | 早年开源,后来闭源,其中支持开源的部分开发者开发了OpenVAS         |
-| [appScan](https://www.hcltechsw.com/products/appscan) |  收费                         | IBM旗下的扫描器                         |
-| [AWVS(Acunetix Web Vulnerability Scanner)](https://www.acunetix.com/web-vulnerability-scanner) |  收费                         | 比较出名的老牌扫描器                         |
-| [Safe3 WVS](https://sourceforge.net/projects/safe3wvs/) | 收费  | 国人开发,不开源, 只有windows版本, 13年就已经停止维护(官网已关闭) |
-| [netsparker](https://www.netsparker.com/) |  收费                         | 说明                         |
-| [Qualys Cloud Platform](https://www.qualys.com/cloud-platform/) |  收费                         | 说明                         |
-| [OpenVAS](https://www.openvas.org/) |  免费                         | 说明                         |
-| [Arachni](https://www.arachni-scanner.com/)  |  免费                         |[Ruby开发] [开源](https://github.com/Arachni/arachni)部分已经停止维护,作者开始商业化             |
-| [Htcap](https://htcap.org/) | 免费 | 拥有优秀的爬虫功能, 支持继承arachni/ck401/native/repeater/sqlmap/wapiti 扫描器 |
-| [OWASP ZAP](https://owasp.org/www-project-zap/) |  免费                         | OWASP官方项目                         |
-| [WDScanner](https://github.com/TideSec/WDScanner) |  免费                         | 说明                         |
-| [w-digital-scanner/w11scan](https://github.com/w-digital-scanner/w11scan) |  免费                         | 说明                         |
-| [zerokeeper/WebEye](https://github.com/zerokeeper/WebEye) |  免费                         | 说明                         |
+免费的推荐 OpenVAS 和 ZAP，用户基础广泛，社区维护好，API接口完善。
 
+| 项目                                                                                             | 收费  | 开源        | 维护  | 备注                                                                | 使用说明                   |
+| ---------------------------------------------------------------------------------------------- | --- | --------- | --- | ----------------------------------------------------------------- | ---------------------- |
+| [Nessus](https://www.tenable.com/products/nessus)                                              | 收费  | 闭源        | -   | 早年开源,后来闭源,其中支持开源的部分开发者开发了OpenVAS                                  |                        |
+| [appScan](https://www.hcltechsw.com/products/appscan)                                          | 收费  | 闭源        | -   | IBM旗下的扫描器                                                         |                        |
+| [AWVS(Acunetix Web Vulnerability Scanner)](https://www.acunetix.com/web-vulnerability-scanner) | 收费  | 闭源        | -   | 比较出名的老牌扫描器                                                        |                        |
+| [Safe3 WVS](https://sourceforge.net/projects/safe3wvs/)                                        | 收费  | 闭源        | 停止  | 国人开发,不开源, 只有windows版本, 13年就已经停止维护(官网已关闭)                          |                        |
+| [netsparker](https://www.netsparker.com/)                                                      | 收费  | 闭源        | -   |                                                                   |                        |
+| [Qualys Cloud Platform](https://www.qualys.com/cloud-platform/)                                | 收费  | 闭源        | -   |                                                                   |                        |
+| [OpenVAS](https://www.openvas.org/)                                                            | 免费  | 开源        | -   |                                                                   |                        |
+| [Arachni](https://www.arachni-scanner.com/)                                                    | 免费  | 开源        | 停止  | [Ruby开发] [开源](https://github.com/Arachni/arachni)部分已经停止维护,作者开始商业化 | [DOC](docs/arachi.md)  |
+| [Htcap](https://htcap.org/)                                                                    | 免费  | 开源        | -   | 拥有优秀的爬虫功能, 支持继承arachni/ck401/native/repeater/sqlmap/wapiti 扫描器    |                        |
+| [OWASP ZAP](https://owasp.org/www-project-zap/)                                                | 免费  | OWASP官方项目 | -   |                                                                   | [DOC](docs/zaproxy.md) |
+| [WDScanner](https://github.com/TideSec/WDScanner)                                              | 免费  | 说明        | -   |                                                                   |                        |
+| [w-digital-scanner/w11scan](https://github.com/w-digital-scanner/w11scan)                      | 免费  | 说明        | -   |                                                                   |                        |
+| [zerokeeper/WebEye](https://github.com/zerokeeper/WebEye)                                      | 免费  | 说明        | -   |                                                                   |                        |
