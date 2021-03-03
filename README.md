@@ -73,3 +73,4 @@
 | [WDScanner](https://github.com/TideSec/WDScanner)                                              | 免费  | 说明  | -   |                                                                   |                        |
 | [w-digital-scanner/w11scan](https://github.com/w-digital-scanner/w11scan)                      | 免费  | 说明  | -   |                                                                   |                        |
 | [zerokeeper/WebEye](https://github.com/zerokeeper/WebEye)                                      | 免费  | 说明  | -   |                                                                   |                        |
+| [andresriancho/w3af](https://github.com/andresriancho/w3af)                                    | 免费  | 说明  | -   |                                                                   |                        |
