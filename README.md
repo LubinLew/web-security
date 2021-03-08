@@ -16,10 +16,10 @@
 
 ## 语意分析
 
-| 项目                                                            | 说明                   |
-| ----------------------------------------------------------------| ---------------------- |
-| [libdetection](https://github.com/wallarm/libdetection)         |  注入与命令攻击的语句分析引擎 |
-| [libinjection](https://github.com/libinjection/libinjection)    | 注入与XSS的语意分析引擎(不算真正的语意分析),该库已经停止维护多年 |
+| 项目                                                           | 说明                                  |
+| ------------------------------------------------------------ | ----------------------------------- |
+| [libdetection](https://github.com/wallarm/libdetection)      | 注入与命令攻击的语句分析引擎                      |
+| [libinjection](https://github.com/libinjection/libinjection) | 注入与XSS的语意分析引擎(不算真正的语意分析),该库已经停止维护多年 |
 
 ## POC & 靶场
 
@@ -57,20 +57,28 @@
 
 免费的推荐 OpenVAS 和 ZAP，用户基础广泛，社区维护好，API接口完善。
 
-| 项目                                                                                             | 收费  | 开源  | 维护  | 备注                                                                | 使用说明                   |
-| ---------------------------------------------------------------------------------------------- | --- | --- | --- | ----------------------------------------------------------------- | ---------------------- |
-| [Nessus](https://www.tenable.com/products/nessus)                                              | 收费  | 闭源  | -   | 早年开源,后来闭源,其中支持开源的部分开发者开发了OpenVAS                                  |                        |
-| [appScan](https://www.hcltechsw.com/products/appscan)                                          | 收费  | 闭源  | -   | IBM旗下的扫描器                                                         |                        |
-| [AWVS(Acunetix Web Vulnerability Scanner)](https://www.acunetix.com/web-vulnerability-scanner) | 收费  | 闭源  | -   | 比较出名的老牌扫描器                                                        |                        |
-| [Safe3 WVS](https://sourceforge.net/projects/safe3wvs/)                                        | 收费  | 闭源  | 停止  | 国人开发,不开源, 只有windows版本, 13年就已经停止维护(官网已关闭)                          |                        |
-| [netsparker](https://www.netsparker.com/)                                                      | 收费  | 闭源  | -   |                                                                   |                        |
-| [Qualys Cloud Platform](https://www.qualys.com/cloud-platform/)                                | 收费  | 闭源  | -   |                                                                   |                        |
-| [OpenVAS](https://www.openvas.org/)                                                            | 免费  | 开源  | -   |                                                                   |                        |
-| [Arachni](https://www.arachni-scanner.com/)                                                    | 免费  | 开源  | 停止  | [Ruby开发] [开源](https://github.com/Arachni/arachni)部分已经停止维护,作者开始商业化 | [DOC](docs/arachni.md) |
-| [sqlmap](https://github.com/sqlmapproject/sqlmap)                                              | 免费  | 开源  | -   | sql注入探测                                                           |                        |
-| [Htcap](https://htcap.org/)                                                                    | 免费  | 开源  | -   | 拥有优秀的爬虫功能, 支持继承arachni/ck401/native/repeater/sqlmap/wapiti 扫描器    |                        |
-| [OWASP ZAP](https://owasp.org/www-project-zap/)                                                | 免费  | 开源  | -   | OWASP官方项目                                                         | [DOC](docs/zaproxy.md) |
-| [WDScanner](https://github.com/TideSec/WDScanner)                                              | 免费  | 说明  | -   |                                                                   |                        |
-| [w-digital-scanner/w11scan](https://github.com/w-digital-scanner/w11scan)                      | 免费  | 说明  | -   |                                                                   |                        |
-| [zerokeeper/WebEye](https://github.com/zerokeeper/WebEye)                                      | 免费  | 说明  | -   |                                                                   |                        |
-| [andresriancho/w3af](https://github.com/andresriancho/w3af)                                    | 免费  | 说明  | -   |                                                                   |                        |
+| 项目                                                                                             | 收费  | 开源                                                                                              | 维护          | 备注                                                                | 使用说明                   |
+| ---------------------------------------------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------- | ---------------------- |
+| [Nessus](https://www.tenable.com/products/nessus)                                              | 收费  | 闭源                                                                                              | -           | 早年开源,后来闭源,其中支持开源的部分开发者开发了OpenVAS                                  |                        |
+| [appScan](https://www.hcltechsw.com/products/appscan)                                          | 收费  | 闭源                                                                                              | -           | IBM旗下的扫描器                                                         |                        |
+| [AWVS(Acunetix Web Vulnerability Scanner)](https://www.acunetix.com/web-vulnerability-scanner) | 收费  | 闭源                                                                                              | -           | 比较出名的老牌扫描器                                                        |                        |
+| [Safe3 WVS](https://sourceforge.net/projects/safe3wvs/)                                        | 收费  | 闭源                                                                                              | 停止          | 国人开发,不开源, 只有windows版本, 13年就已经停止维护(官网已关闭)                          |                        |
+| [netsparker](https://www.netsparker.com/)                                                      | 收费  | 闭源                                                                                              | -           |                                                                   |                        |
+| [Qualys Cloud Platform](https://www.qualys.com/cloud-platform/)                                | 收费  | 闭源                                                                                              | -           |                                                                   |                        |
+| [OpenVAS](https://www.openvas.org/)                                                            | 免费  | GPL                                                                                             | 维护          | OpenVAS是功能齐全的漏洞(web+系统+软件)扫描程序                                    |                        |
+| [Arachni](https://www.arachni-scanner.com/)                                                    | 免费  | [Arachni Public Source License v1.0](https://github.com/Arachni/arachni/blob/master/LICENSE.md) | 停止          | [Ruby开发] [开源](https://github.com/Arachni/arachni)部分已经停止维护,作者开始商业化 | [DOC](docs/arachni.md) |
+| [sqlmap](https://github.com/sqlmapproject/sqlmap)                                              | 免费  | GPL                                                                                             | 维护          | sql注入探测                                                           |                        |
+| [Htcap](https://htcap.org/)                                                                    | 免费  | GPLv2.0                                                                                         | 7 Dec 2020  | 拥有优秀的爬虫功能, 支持继承arachni/sqlmap/wapiti 扫描器                          |                        |
+| [OWASP ZAP](https://owasp.org/www-project-zap/)                                                | 免费  | GPLv2.0                                                                                         | 维护          | OWASP官方项目                                                         | [DOC](docs/zaproxy.md) |
+| [WDScanner](https://github.com/TideSec/WDScanner)                                              | 免费  | 开源                                                                                              | 22 Jun 2020 | 漏洞扫描调用了wvs的扫描核心                                                   |                        |
+| [andresriancho/w3af](https://github.com/andresriancho/w3af)                                    | 免费  | GPLv2.0                                                                                         | 16 Jun 2020 | 不支持并发扫描, 支持API接口                                                  | [DOC](docs/w3af.md)    |
+| [wapiti-scanner/wapiti](https://github.com/wapiti-scanner/wapiti)                              | 免费  | GPLv2.0                                                                                         | Mar 3, 2021 | 使用其他引擎,只能生成HTML报告                                                 | [DOC](docs/wapiti.md)  |
+
+----
+
+## 指纹收集
+
+| 项目                                                                        | 费用  | 开源      | 维护          | 说明                                    |
+| ------------------------------------------------------------------------- | --- | ------- | ----------- | ------------------------------------- |
+| [zerokeeper/WebEye](https://github.com/zerokeeper/WebEye)                 | 免费  | 无       | 29 Dec 2018 | 识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架 |
+| [w-digital-scanner/w11scan](https://github.com/w-digital-scanner/w11scan) | 免费  | GPLv3.0 | 23 Aug 2018 |                                       |
