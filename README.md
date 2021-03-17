@@ -87,3 +87,8 @@
 | ------------------------------------------------------------------------- | --- | ------- | ----------- | ------------------------------------- |
 | [zerokeeper/WebEye](https://github.com/zerokeeper/WebEye)                 | 免费  | 无       | 29 Dec 2018 | 识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架 |
 | [w-digital-scanner/w11scan](https://github.com/w-digital-scanner/w11scan) | 免费  | GPLv3.0 | 23 Aug 2018 |                                       |
+
+
+## 其他
+
+https://gist.github.com/Llight9/630ef8bf80a0c5f1bc0a3c9dbb5b2933
