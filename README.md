@@ -35,7 +35,7 @@
 | [BaizeSec/bylibrary](https://github.com/BaizeSec/bylibrary/tree/main/docs/%E6%BC%8F%E6%B4%9E%E5%BA%93)   | [mubix/shellshocker-pocs](https://github.com/mubix/shellshocker-pocs)                                       | [jas502n](https://github.com/jas502n?tab=repositories)              |
 | [NickstaDB/PoC](https://github.com/NickstaDB/PoC)                                                        | [AV1080p/PoCorExp](https://github.com/AV1080p/PoCorExp)                                                     | [lgandx/PoC](https://github.com/lgandx/PoC)                         |
 | [TeraSecTeam/poc-collection](https://github.com/TeraSecTeam/poc-collection/blob/main/poc-collection.csv) | [tunz/js-vuln-db](https://github.com/tunz/js-vuln-db)                                                       | [pochubs/pochubs](https://github.com/pochubs/pochubs)               |
-| [ScottyBauer/Android_Kernel_CVE_POCs](https://github.com/ScottyBauer/Android_Kernel_CVE_POCs)            | [SkyBlueEternal/thinkphp-RCE-POC-Collection](https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection) |                                                                     |
+| [ScottyBauer/Android_Kernel_CVE_POCs](https://github.com/ScottyBauer/Android_Kernel_CVE_POCs)            | [SkyBlueEternal/thinkphp-RCE-POC-Collection](https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection) | [mai-lang-chai/Middleware-Vulnerability-detection](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection)    |
 
 ----
 
