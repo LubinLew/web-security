@@ -4,9 +4,9 @@ OWASP Zed攻击代理（ZAP）是世界上最受欢迎的免费安全工具之�
 
 ## 安装
 
-window 版本开箱即用，Linux 版本分情况，默认带UI启动，与 window版无异(java跨凭他);
+window 版本开箱即用，Linux 版本分情况，默认带UI启动，与 window版无异(java跨平台);
 
-另一种在服务器(无桌面)中运行(即以`-daemon`方式运行), 这种情况就需要通过API进行操作, 官方提供了详细的[API文档](https://www.zaproxy.org/docs/api/#introduction)。
+另一种是在服务器(无桌面)中运行(即以`-daemon`方式运行), 这种情况就需要通过API进行操作, 官方提供了详细的[API文档](https://www.zaproxy.org/docs/api/#introduction)。
 
 做爬虫时需要使用到firefox浏览器，所以先安装一下firefox
 
