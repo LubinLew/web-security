@@ -23,19 +23,19 @@
 
 ## POC & 靶场
 
-| [vulhub/vulhub](https://github.com/vulhub/vulhub)                                                        | [Medicean/VulApps](https://github.com/Medicean/VulApps)                                                     | -                                                                   |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [coffeehb/Some-PoC-oR-ExP](https://github.com/coffeehb/Some-PoC-oR-ExP)                                  | [tenable/poc](https://github.com/tenable/poc)                                                               | [ym2011/POC-EXP](https://github.com/ym2011/POC-EXP)                 |
-| [Mr5m1th/POC-Collect](https://github.com/Mr5m1th/POC-Collect)                                            | [corkami/pocs](https://github.com/corkami/pocs)                                                             | [thezdi/PoC](https://github.com/thezdi/PoC)                         |
-| [Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)                        | [qazbnm456/awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc)                                   | [mcw0/PoC](https://github.com/mcw0/PoC)                             |
-| [pedrib/PoC](https://github.com/pedrib/PoC)                                                              | [VLSI-EDA/PoC](https://github.com/VLSI-EDA/PoC)                                                             | [ele7enxxh/poc-exp](https://github.com/ele7enxxh/poc-exp)           |
-| [burnegg/poc](https://github.com/burnegg/poc)                                                            | [nanshihui/PocCollect](https://github.com/nanshihui/PocCollect)                                             | [gottburgm/Exploits](https://github.com/gottburgm/Exploits)         |
-| [pedrib/PoC](https://github.com/pedrib/PoC)                                                              | [HacTF/poc--exp](https://github.com/HacTF/poc--exp)                                                         | [V-E-O/PoC](https://github.com/V-E-O/PoC)                           |
-| [njcx/pocsuite_poc_collect](https://github.com/njcx/pocsuite_poc_collect)                                | [google/security-research-pocs](https://github.com/google/security-research-pocs)                           | [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) |
-| [BaizeSec/bylibrary](https://github.com/BaizeSec/bylibrary/tree/main/docs/%E6%BC%8F%E6%B4%9E%E5%BA%93)   | [mubix/shellshocker-pocs](https://github.com/mubix/shellshocker-pocs)                                       | [jas502n](https://github.com/jas502n?tab=repositories)              |
-| [NickstaDB/PoC](https://github.com/NickstaDB/PoC)                                                        | [AV1080p/PoCorExp](https://github.com/AV1080p/PoCorExp)                                                     | [lgandx/PoC](https://github.com/lgandx/PoC)                         |
-| [TeraSecTeam/poc-collection](https://github.com/TeraSecTeam/poc-collection/blob/main/poc-collection.csv) | [tunz/js-vuln-db](https://github.com/tunz/js-vuln-db)                                                       | [pochubs/pochubs](https://github.com/pochubs/pochubs)               |
-| [ScottyBauer/Android_Kernel_CVE_POCs](https://github.com/ScottyBauer/Android_Kernel_CVE_POCs)            | [SkyBlueEternal/thinkphp-RCE-POC-Collection](https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection) | [mai-lang-chai/Middleware-Vulnerability-detection](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection)    |
+| [vulhub/vulhub](https://github.com/vulhub/vulhub)                                                        | [Medicean/VulApps](https://github.com/Medicean/VulApps)                                                     | -                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [coffeehb/Some-PoC-oR-ExP](https://github.com/coffeehb/Some-PoC-oR-ExP)                                  | [tenable/poc](https://github.com/tenable/poc)                                                               | [ym2011/POC-EXP](https://github.com/ym2011/POC-EXP)                                                                     |
+| [Mr5m1th/POC-Collect](https://github.com/Mr5m1th/POC-Collect)                                            | [corkami/pocs](https://github.com/corkami/pocs)                                                             | [thezdi/PoC](https://github.com/thezdi/PoC)                                                                             |
+| [Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)                        | [qazbnm456/awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc)                                   | [mcw0/PoC](https://github.com/mcw0/PoC)                                                                                 |
+| [pedrib/PoC](https://github.com/pedrib/PoC)                                                              | [VLSI-EDA/PoC](https://github.com/VLSI-EDA/PoC)                                                             | [ele7enxxh/poc-exp](https://github.com/ele7enxxh/poc-exp)                                                               |
+| [burnegg/poc](https://github.com/burnegg/poc)                                                            | [nanshihui/PocCollect](https://github.com/nanshihui/PocCollect)                                             | [gottburgm/Exploits](https://github.com/gottburgm/Exploits)                                                             |
+| [pedrib/PoC](https://github.com/pedrib/PoC)                                                              | [HacTF/poc--exp](https://github.com/HacTF/poc--exp)                                                         | [V-E-O/PoC](https://github.com/V-E-O/PoC)                                                                               |
+| [njcx/pocsuite_poc_collect](https://github.com/njcx/pocsuite_poc_collect)                                | [google/security-research-pocs](https://github.com/google/security-research-pocs)                           | [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub)                                                     |
+| [BaizeSec/bylibrary](https://github.com/BaizeSec/bylibrary/tree/main/docs/%E6%BC%8F%E6%B4%9E%E5%BA%93)   | [mubix/shellshocker-pocs](https://github.com/mubix/shellshocker-pocs)                                       | [jas502n](https://github.com/jas502n?tab=repositories)                                                                  |
+| [NickstaDB/PoC](https://github.com/NickstaDB/PoC)                                                        | [AV1080p/PoCorExp](https://github.com/AV1080p/PoCorExp)                                                     | [lgandx/PoC](https://github.com/lgandx/PoC)                                                                             |
+| [TeraSecTeam/poc-collection](https://github.com/TeraSecTeam/poc-collection/blob/main/poc-collection.csv) | [tunz/js-vuln-db](https://github.com/tunz/js-vuln-db)                                                       | [pochubs/pochubs](https://github.com/pochubs/pochubs)                                                                   |
+| [ScottyBauer/Android_Kernel_CVE_POCs](https://github.com/ScottyBauer/Android_Kernel_CVE_POCs)            | [SkyBlueEternal/thinkphp-RCE-POC-Collection](https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection) | [mai-lang-chai/Middleware-Vulnerability-detection](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection) |
 
 ----
 
@@ -55,7 +55,9 @@
 
 ## 扫描器
 
-免费的推荐 OpenVAS 和 ZAP，用户基础广泛，社区维护好，API接口完善。
+免费的推荐 OpenVAS(主机) 和 Zaproxy(web)，用户基础广泛，社区维护好，API接口完善。
+
+> https://owasp.org/www-community/Vulnerability_Scanning_Tools
 
 | 项目                                                                  | 收费  | 开源                                                                                              | 维护          | 备注                                                                | 使用说明                      |
 | ------------------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------- | ------------------------- |
@@ -72,7 +74,7 @@
 | [OWASP ZAP](https://owasp.org/www-project-zap/)                     | 免费  | GPLv2.0                                                                                         | 维护          | OWASP官方项目,没有CVE扫描功能                                               | [DOC](docs/zaproxy.md)    |
 | [WDScanner](https://github.com/TideSec/WDScanner)                   | 免费  | 开源                                                                                              | 22 Jun 2020 | 漏洞扫描调用了wvs的扫描核心                                                   |                           |
 | [andresriancho/w3af](https://github.com/andresriancho/w3af)         | 免费  | GPLv2.0                                                                                         | 16 Jun 2020 | 安全漏洞的扫描功能，没有CVE扫描功能，不支持并发扫描, 支持API接口                              | [DOC](docs/w3af.md)       |
-| [wapiti-scanner/wapiti](https://github.com/wapiti-scanner/wapiti)   | 免费  | GPLv2.0                                                                                         | Mar 3 2021  | 渗透扫描工具，没有CVE扫描功能                                                  | [DOC](docs/wapiti.md)     |
+| [wapiti-scanner/wapiti](https://github.com/wapiti-scanner/wapiti)   | 免费  | GPLv2.0                                                                                         | Apr 14 2022 | 渗透扫描工具，没有CVE扫描功能                                                  | [DOC](docs/wapiti.md)     |
 | [sjvermeu/cvechecker](https://github.com/sjvermeu/cvechecker)       | 免费  | GPLv3.0                                                                                         | 29 Nov 2020 | 只能检查本地软件包的版本判断CVE                                                 | [DOC](docs/cvechecker.md) |
 | [cve-search](https://github.com/cve-search/cve-search)              | 免费  | AGPLv3.0                                                                                        | Mar 8 2021  | 只能检查本地软件包的版本判断CVE                                                 |                           |
 | [m0nad/HellRaiser](https://github.com/m0nad/HellRaiser)             | 免费  | 开源                                                                                              | Mar 5 2021  | 基于 [cve-search](https://github.com/cve-search/cve-search)         |                           |
@@ -87,7 +89,6 @@
 | ------------------------------------------------------------------------- | --- | ------- | ----------- | ------------------------------------- |
 | [zerokeeper/WebEye](https://github.com/zerokeeper/WebEye)                 | 免费  | 无       | 29 Dec 2018 | 识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架 |
 | [w-digital-scanner/w11scan](https://github.com/w-digital-scanner/w11scan) | 免费  | GPLv3.0 | 23 Aug 2018 |                                       |
-
 
 ## 其他
 
